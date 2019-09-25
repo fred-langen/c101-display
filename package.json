@@ -1,0 +1,12 @@
+{
+    "name": "c101-display",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_OfficeLED.json",
+            "credentialsFile": "flows_OfficeLED_cred.json"
+        }
+    }
+}
